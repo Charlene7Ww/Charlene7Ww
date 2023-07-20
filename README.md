@@ -8,9 +8,3 @@
 
 ## 🔨 Language & Tools
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene7Ww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Get in touch
-
-
