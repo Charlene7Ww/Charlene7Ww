@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! This is Charlene, Jiayu Wei 💃
 
-<!--
-**Charlene7Ww/Charlene7Ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏃‍♀️ About Me 
+#### 💼 Data analyst seeking a challenging role in marketing and product analytics
+#### 👩‍🎓 M.S in Business Analytics @ WFU 🇺🇸； B.B.A in Marketing & Applied Mathematics @ PolyU 🇭🇰 
+#### 😄 Beyond Profession 
+#### ⛓️ Get in touch     [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Charlene on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/charlene-jiayu/)   [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
 
-Here are some ideas to get you started:
+## 🔨 Language & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene7Ww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Get in touch
+
+
