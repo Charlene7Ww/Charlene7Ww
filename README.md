@@ -19,3 +19,6 @@
 
 #### Time Series Forecasting
 * [Predicting Retail Sales](https://github.com/Charlene7Ww/Wind_Power_TS/tree/main/Retail_predict)
+
+#### Clustering and Classification
+* [DonorsChoose.org Program Prediction and Donor Segmentation Analysis](https://github.com/Charlene7Ww/DonorsChoose)
