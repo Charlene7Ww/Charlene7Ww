@@ -8,7 +8,7 @@
 
 ## 🔨 Language & Tools
 
-## Analytic Projects
+## 📁 Analytic Projects
 ### MySQL
 * [Data Management Course Practice Files](https://github.com/Charlene7Ww/sql_course)
 
