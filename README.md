@@ -7,6 +7,7 @@
 #### ⛓️ Get in touch  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="30em" align="center" alt="Follow Charlene on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/charlene-jiayu/)   [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="30em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/wei.charlene/)
 
 ## 🔨 Language & Tools
+<img src="https://github.com/Charlene7Ww/Charlene7Ww/blob/main/Screen%20Shot%202023-07-20%20at%2011.22.42%20PM.png" height ="40em" >
 
 ## 📁 Analytic Projects
 ### MySQL
