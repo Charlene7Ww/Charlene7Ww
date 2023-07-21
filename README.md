@@ -11,6 +11,10 @@
 ## Analytic Projects
 ### MySQL
 * [Data Management Course Practice Files](https://github.com/Charlene7Ww/sql_course)
+
+### Python
+* [Pet Product Data Analysis: Data-Driven Recommendations for Online Pet Stores](https://github.com/Charlene7Ww/da_competition)
+  
 ### R 
 #### Machine Learning
 * [Predicting Boston House Price](https://github.com/Charlene7Ww/Boston_house_pred)
@@ -22,3 +26,11 @@
 
 #### Clustering and Classification
 * [DonorsChoose.org Program Prediction and Donor Segmentation Analysis](https://github.com/Charlene7Ww/DonorsChoose)
+
+### SPSS
+#### Market Research
+* [PolyU Final Year Project [Psychological and Behavioral Research of Mainstream Social Media Users]](https://github.com/Charlene7Ww/fyp)
+
+### Excel
+#### Financial
+* [Financial Portfolio Investment Analytics](https://github.com/Charlene7Ww/excel/tree/main/Finanacial)
