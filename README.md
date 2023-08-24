@@ -28,6 +28,10 @@
 #### Clustering and Classification
 * [DonorsChoose.org Program Prediction and Donor Segmentation Analysis](https://github.com/Charlene7Ww/DonorsChoose)
 
+### Tableau
+* [Popular YouTubers 2023: A Data Visualization Snapshot ![image](https://github.com/Charlene7Ww/Charlene7Ww/assets/138832275/ef9bf29d-5e56-4a91-ae4d-a4f3c99fea77)
+](https://github.com/Charlene7Ww/da_competition/tree/main/youtube)
+
 ### SPSS
 #### Market Research
 * [PolyU Final Year Project [Psychological and Behavioral Research of Mainstream Social Media Users]](https://github.com/Charlene7Ww/fyp)
