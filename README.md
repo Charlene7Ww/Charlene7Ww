@@ -29,8 +29,7 @@
 * [DonorsChoose.org Program Prediction and Donor Segmentation Analysis](https://github.com/Charlene7Ww/DonorsChoose)
 
 ### Tableau
-* [Popular YouTubers 2023: A Data Visualization Snapshot](https://github.com/Charlene7Ww/da_competition/tree/main/youtube)
-
+* [Popular Youtuber 2023 Data Visulization Snapshot](https://github.com/Charlene7Ww/da_competition/tree/main/youtube)
 
 ### SPSS
 #### Market Research
