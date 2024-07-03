@@ -28,6 +28,8 @@ I am passionate about leveraging data science techniques such as A/B testing, da
 
 ### Python
 * [Pet Product Data Analysis: Data-Driven Recommendations for Online Pet Stores](https://github.com/Charlene7Ww/da_competition)
+* [Hotel Customer Cancellation Prediction!](https://github.com/Charlene7Ww/Hotel-Cancelation-Rate-Prediction)
+  
   
 ### R 
 #### Machine Learning
