@@ -14,10 +14,13 @@ With a strong foundation in statistical analysis and predictive modeling, I exce
 I am passionate about leveraging data science techniques such as A/B testing, data wrangling, and machine learning to drive informed decision-making and optimize business processes. Continuously learning and adapting to new technologies, I am dedicated to staying at the forefront of the rapidly evolving field of data analytics.
 
 ## TECHNICAL SKILLS 
-• Programming & Tools: Python (Pandas, Scikit-Learn, PyTorch, TensorFlow), SQL, R, SPSS, Git
-• Data Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn, Excel
-• Data Mgt & Engineering: MySQL, SQL Server, ETL Pipelines, schema design, AWS, GCP, Spark
-• Data Science & Analytics: A/B Testing, Data Wrangling, Data Modeling, Data Mining, Statistics, Machine Learning, Deep Learning, NLP, Time Series Forecasting
+- Programming & Tools: Python (Pandas, Scikit-Learn, PyTorch, TensorFlow), SQL, R, SPSS, Git
+
+- Data Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn, Excel
+
+- Data Mgt & Engineering: MySQL, SQL Server, ETL Pipelines, schema design, AWS, GCP, Spark
+
+- Data Science & Analytics: A/B Testing, Data Wrangling, Data Modeling, Data Mining, Statistics, Machine Learning, Deep Learning, NLP, Time Series Forecasting
 
 ## 📁 Analytic Projects
 ### MySQL
