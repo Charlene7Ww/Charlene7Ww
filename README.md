@@ -1,13 +1,23 @@
 # Hi there! This is Charlene, Jiayu Wei 💃
 
 ## 🏃‍♀️ About Me 
-#### 💼 Data analyst seeking a challenging role in marketing and product analytics
+#### 💼 Data analyst, Data Scientis
 #### 👩‍🎓 M.S in Business Analytics @ WFU 🇺🇸； B.B.A in Marketing & Applied Mathematics @ PolyU 🇭🇰 
 #### 😄 Other Passions & Talents: Member of the school basketball team in UG; Volunteer teaching; Outdoor cycling
 #### ⛓️ Get in touch  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="30em" align="center" alt="Follow Charlene on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/charlene-jiayu/)   [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="30em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/wei.charlene/)
 
-## 🔨 Language & Tools
-<img src="https://github.com/Charlene7Ww/Charlene7Ww/blob/main/Screen%20Shot%202023-07-20%20at%2011.22.42%20PM.png" height ="40em" >
+## Professional Summary
+I am a proficient Data Analyst with 2 years of experience and expertise in a variety of technical skills essential for effective data management and analysis. My toolkit includes advanced programming languages such as Python (Pandas, Scikit-Learn, PyTorch, TensorFlow), SQL, and R, along with proficiency in data visualization tools like Tableau, PowerBI, and Matplotlib. Additionally, I am skilled in Excel (VLOOKUP, Pivot Tables, Macros, VBA, Power Query, Advanced Formulas) for data manipulation and analysis.
+
+With a strong foundation in statistical analysis and predictive modeling, I excel in extracting actionable insights from complex datasets. My skills extend to data engineering, encompassing database management, ETL pipelines, schema design, and performance optimization on platforms like AWS and GCP.
+
+I am passionate about leveraging data science techniques such as A/B testing, data wrangling, and machine learning to drive informed decision-making and optimize business processes. Continuously learning and adapting to new technologies, I am dedicated to staying at the forefront of the rapidly evolving field of data analytics.
+
+## TECHNICAL SKILLS 
+• Programming & Tools: Python (Pandas, Scikit-Learn, PyTorch, TensorFlow), SQL, R, SPSS, Git
+• Data Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn, Excel
+• Data Mgt & Engineering: MySQL, SQL Server, ETL Pipelines, schema design, AWS, GCP, Spark
+• Data Science & Analytics: A/B Testing, Data Wrangling, Data Modeling, Data Mining, Statistics, Machine Learning, Deep Learning, NLP, Time Series Forecasting
 
 ## 📁 Analytic Projects
 ### MySQL
