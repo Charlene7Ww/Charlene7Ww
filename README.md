@@ -1,7 +1,7 @@
 # Hi there! This is Charlene, Jiayu Wei 💃
 
 ## 🏃‍♀️ About Me 
-#### 💼 Data analyst, Data Scientis
+#### 💼 Data analyst, Data Scientist, Data Engineer
 #### 👩‍🎓 M.S in Business Analytics @ WFU 🇺🇸； B.B.A in Marketing & Applied Mathematics @ PolyU 🇭🇰 
 #### 😄 Other Passions & Talents: Member of the school basketball team in UG; Volunteer teaching; Outdoor cycling
 #### ⛓️ Get in touch  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="30em" align="center" alt="Follow Charlene on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/charlene-jiayu/)   [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="30em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/wei.charlene/)
