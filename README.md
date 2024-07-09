@@ -46,6 +46,7 @@ I am passionate about leveraging data science techniques such as A/B testing, da
 
 ### Tableau
 * [Popular Youtuber 2023 Data Visulization Snapshot](https://github.com/Charlene7Ww/da_competition/tree/main/youtube)
+* [Product Sales Analysis (Work Sample)](https://public.tableau.com/app/profile/jiayu.wei/viz/WorkSample_17199773637810/Dashboard)
 
 ### SPSS
 #### Market Research
