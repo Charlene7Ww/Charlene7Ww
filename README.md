@@ -1,35 +1,33 @@
 # Hi there! This is Charlene, Jiayu Wei 💃
 
 ## 🏃‍♀️ About Me 
-#### 💼 Data analyst, Data Scientist, Data Engineer
+#### 💼 Data analyst, Data Engineer
 #### 👩‍🎓 M.S. in Business Analytics @ WFU 🇺🇸； B.S. in Marketing & Applied Mathematics @ PolyU 🇭🇰 
 #### 😄 Other Passions & Talents: Member of the school basketball team in UG; Volunteer teaching; Outdoor cycling
 #### ⛓️ Get in touch  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="30em" align="center" alt="Follow Charlene on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/charlene-jiayu/)   [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="30em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/wei.charlene/)
 
 ## Professional Summary
-I am a proficient Data Professional with 2 years of experience and expertise in a variety of technical skills essential for effective data management and analysis. My toolkit includes advanced programming languages such as Python (Pandas, Scikit-Learn, PyTorch, TensorFlow), SQL, and R, along with proficiency in data visualization tools like Tableau, PowerBI, and Matplotlib. Additionally, I am skilled in Excel (VLOOKUP, Pivot Tables, Macros, VBA, Power Query, Advanced Formulas) for data manipulation and analysis.
+Data Professional specializing in B2B retail analytics (CPG/snacks), with expertise in market entry strategy, operational efficiency, and cross-industry analytics (finance, advertising). Proven ability to drive growth through end-to-end data solutions - from ETL pipelines (Python/SQL/Airflow) and predictive modeling to statistical analysis (hypothesis testing, regression) and interactive dashboards (Tableau/Power BI), automating insights that boosted sales.
 
-With a strong foundation in statistical analysis and predictive modeling, I excel in extracting actionable insights from complex datasets. My skills extend to data engineering, encompassing database management, ETL pipelines, schema design, and performance optimization on platforms like AWS and GCP.
 
-I am passionate about leveraging data science techniques such as A/B testing, data wrangling, and machine learning to drive informed decision-making and optimize business processes. Continuously learning and adapting to new technologies, I am dedicated to staying at the forefront of the rapidly evolving field of data analytics.
+## 🛠 TECHNICAL SKILLS 
+- **Programming & Tools**: Python (Pandas, Scikit-Learn, TensorFlow), SQL, R, Git  
+- **BI & Viz**: Tableau, Power BI, Matplotlib, Seaborn  
+- **Data Engineering**: Airflow (Astro), MinIO, Docker, Spark, AWS  
+- **Analytics**: A/B Testing, Data Modeling, ML, NLP, Forecasting
 
-## TECHNICAL SKILLS 
-- **Programming & Tools**: Python (Pandas, Scikit-Learn, PyTorch, TensorFlow), SQL, R, SPSS, Git
+## 📁 Analytic & Engineering Projects
 
-- **Data Visualization & BI**: Tableau, Power BI, Matplotlib, Seaborn, Excel
+### Data Engineering
+* [Stock Market ETL Pipeline with Airflow (Astro)](https://github.com/Charlene7Ww/airflow-stock-etl)
+An end-to-end pipeline that fetches NVDA stock data via Yahoo Finance API, stores it in MinIO, processes it in a Spark container, and loads it into PostgreSQL via Airflow. Dashboard is built using Metabase.
 
-- **Data Mgt & Engineering**: MySQL, SQL Server, ETL Pipelines, schema design, AWS, GCP, Spark
-
-- **Data Science & Analytics**: A/B Testing, Data Wrangling, Data Modeling, Data Mining, Statistics, Machine Learning, Deep Learning, NLP, Time Series Forecasting
-
-## 📁 Analytic Projects
 ### MySQL
 * [Data Management Course Practice Files](https://github.com/Charlene7Ww/sql_course)
 
 ### Python
 * [Pet Product Data Analysis: Data-Driven Recommendations for Online Pet Stores](https://github.com/Charlene7Ww/da_competition)
 * [Hotel Customer Cancellation Prediction!](https://github.com/Charlene7Ww/Hotel-Cancelation-Rate-Prediction)
-  
   
 ### R 
 #### Machine Learning
