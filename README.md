@@ -18,7 +18,7 @@ Data Professional specializing in B2B retail analytics (CPG/snacks), with expert
 
 ## 📁 Analytic & Engineering Projects
 
-### Data Engineering
+### Data Engineering (Jun 2025)
 * [Stock Market ETL Pipeline with Airflow (Astro)](https://github.com/Charlene7Ww/airflow-stock-etl)
 An end-to-end pipeline that fetches NVDA stock data via Yahoo Finance API, stores it in MinIO, processes it in a Spark container, and loads it into PostgreSQL via Airflow. Dashboard is built using Metabase.
 
