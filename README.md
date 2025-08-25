@@ -19,14 +19,14 @@ Data Professional specializing in B2B retail analytics (CPG/snacks), with expert
 ## 📁 Analytic & Engineering Projects
 
 ### Data Engineering
-* ** (Jun 2025) **[Stock Market ETL Pipeline with Airflow (Astro)](https://github.com/Charlene7Ww/airflow-stock-etl)
+* **(Jun 2025)** [Stock Market ETL Pipeline with Airflow (Astro)](https://github.com/Charlene7Ww/airflow-stock-etl)
 An end-to-end pipeline that fetches NVDA stock data via Yahoo Finance API, stores it in MinIO, processes it in a Spark container, and loads it into PostgreSQL via Airflow. Dashboard is built using Metabase.
 
 ### MySQL
 * [Data Management Course Practice Files](https://github.com/Charlene7Ww/sql_course)
 
 ### Python
-- ** (Aug 2025) **[DoorDash Discounts Analysis (Self-Practice)](https://github.com/Charlene7Ww/dd_case_study)
+- **(Aug 2025)** [DoorDash Discounts Analysis (Self-Practice)](https://github.com/Charlene7Ww/dd_case_study)
   End-to-end analytics case study on discount campaigns, including statistical tests, stakeholder insights, and recommendations.
 
 * [Pet Product Data Analysis: Data-Driven Recommendations for Online Pet Stores](https://github.com/Charlene7Ww/da_competition)
