@@ -26,6 +26,10 @@ An end-to-end pipeline that fetches NVDA stock data via Yahoo Finance API, store
 * [Data Management Course Practice Files](https://github.com/Charlene7Ww/sql_course)
 
 ### Python
+* Case Study  
+- [DoorDash Discounts Analysis (Self-Practice)](https://github.com/Charlene7Ww/dd_case_study)
+- End-to-end analytics case study on discount campaigns, including statistical tests, stakeholder insights, and recommendations.
+
 * [Pet Product Data Analysis: Data-Driven Recommendations for Online Pet Stores](https://github.com/Charlene7Ww/da_competition)
 * [Hotel Customer Cancellation Prediction!](https://github.com/Charlene7Ww/Hotel-Cancelation-Rate-Prediction)
   
